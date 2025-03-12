@@ -1,3 +1,20 @@
-Frontend Developer in Progress.
+<h1><p align="center">Hola, Soy Francisco Mejía! <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
 
-Focusing on building my skills in HTML, CSS, and JavaScript as I develop my portfolio. I’m passionate about creating responsive, user-friendly websites while continuously learning and improving my craft. Analytical and a strong team player, I’m driven by curiosity and the desire to grow as a developer. 😁✌🏻
+### Desarrollador Front-end en Desarrollo.
+
+Me estoy enfocando en desarrollar mis habilidades en React Js mientras desarrollo proyectos para mi portafolio. Me apasiona crear sitios web responsivos e intuitivos, a la vez que aprendo y mejoro constantemente. Soy analítico y un gran jugador de equipo; Me impulsa la curiosidad y el deseo de crecer como desarrollador. 😁✌🏻
+
+### Tecnologías.
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### Herramientas.
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
