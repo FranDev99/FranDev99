@@ -2,7 +2,7 @@
 
 ### Desarrollador Front-end en Desarrollo.
 
-Me estoy enfocando en desarrollar mis habilidades en React Js mientras desarrollo proyectos para mi portafolio. Me apasiona crear sitios web responsivos e intuitivos, a la vez que aprendo y mejoro constantemente. Soy analítico y un gran jugador de equipo; Me impulsa la curiosidad y el deseo de crecer como desarrollador. 😁✌🏻
+Me estoy enfocando en desarrollar mis habilidades en React Js mientras desarrollo proyectos para mi portafolio. Me apasiona crear sitios web responsivos e intuitivos, a la vez que aprendo y mejoro constantemente. Soy analítico y un gran jugador de equipo; Me impulsa la curiosidad y el deseo de crecer como desarrollador.
 
 ### Tecnologías.
 
